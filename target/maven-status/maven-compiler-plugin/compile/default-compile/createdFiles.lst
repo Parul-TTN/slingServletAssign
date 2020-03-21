@@ -1,2 +1,6 @@
 org/example/SlingServlet.class
+org/example/ServletBlogs$2.class
+org/example/ServletBlogs$1.class
+org/example/ServletBlogs.class
 org/example/SimpleDSComponent.class
+org/example/pojos/Blog.class
